@@ -69,7 +69,7 @@ global.ntilink = []
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = [','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
     admin: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Is Oɴʟʏ Fᴏʀ Aᴅᴍɪɴ',
@@ -100,7 +100,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 3
 }
 // api website by xenz
 global.APIs = {
